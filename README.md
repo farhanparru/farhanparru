@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Muhammad Shamin Farhan
 #### Desigen and Development
-![Desigen and Development](https://cdnl.iconscout.com/lottie/premium/thumb/programming-5688992-4740918.mp4)
+![Desigen and Development]
 
 👋 Hello, I'm Farhan!
 
@@ -11,8 +11,14 @@ Design isn't just about making things look good; it's about creating seamless an
 
 Skills: Boostrapp/ REACT / JS / HTML / CSS/Talwind Css/Redux/ MongoDb/Express js/Node Js
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Bridgeonn InternShipp 
+- 🌱 I’m currently learning Database 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/farhanparru)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanparru)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=farhanparru&show_icons=true&count_private=true)  
 
 
