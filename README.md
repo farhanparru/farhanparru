@@ -1,24 +1,77 @@
-### Hi there 👋, my name is Muhammad Shamin Farhan
-#### Desigen and Development
-![Desigen and Development]
+<div align="center">
+  <img height="200" src="https://pin.it/75ZjOz3ql"  />
+</div>
 
-👋 Hello, I'm Farhan!
+###
 
-I'm a dedicated content creator with a love for all things design and development. My journey in the digital realm has been fueled by a genuine curiosity and a relentless pursuit of knowledge. From diving into the intricacies of React to mastering the art of JavaScript and Bootstrap, I find joy in the ever-evolving landscape of web technologies.
+<h1 align="left">Hello👋</h1>
 
-🎨 Passionate About Design:
-Design isn't just about making things look good; it's about creating seamless and memorable user experiences. Whether it's crafting a visually appealing interface or delving into the nuances of user-centric design principles, I thrive on bringing creativity to the digital canvas.
+###
 
-Skills: Boostrapp/ REACT / JS / HTML / CSS/Talwind Css/Redux/ MongoDb/Express js/Node Js
+<p align="left">My name is Muhammad Shamin Farhan and I'm a  Software Developer from  kerala</p>
 
-- 🔭 I’m currently working on Bridgeonn InternShipp 
-- 🌱 I’m currently learning Database 
+###
 
+<h2 align="left">About me</h2>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/farhanparru)  
+###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanparru)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">✨  I’m currently doing on <br>InternShipp Bridgeon<br>📚 I'm currently  working on an  E-commrce project</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=farhanparru&show_icons=true&count_private=true)  
+###
 
+<h2 align="left">I code with</h2>
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farhanparru&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanparru&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/muhammed-farhan-a59745275/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/farhan.parru?igsh=MXF0ZjE0NHlyZW50dA==" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
