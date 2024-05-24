@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨  I’m currently doing on <br>InternShipp Bridgeon<br>📚 I'm currently  working on an  Social Media FullStack project</p>
+<p align="left">✨  I’m currently doing on <br>InternShipp Bridgeon<br>📚 I'm currently  working on an  live project Travel Booking application</p>
 
 ###
 
