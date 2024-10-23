@@ -104,14 +104,14 @@
 <h2 align="left">Contact</h2>
 
 <p align="left">
-  📧 <strong>Email</strong>: <a href="mailto:support@yourdomain.com">support@yourdomain.com</a><br>
-  🌐 <strong>Website</strong>: <a href="https://yourdomain.com">yourdomain.com</a>
+  📧 <strong>Email</strong>: <a href="mailto:support@tyemventures.in">support@tyemventures.in</a><br>
+  🌐 <strong>Website</strong>: <a href="https://invenro.com">yourdomain.com</a>
 </p>
 
 <hr />
 
 <p align="center">
-  Made with ❤️ by [Your Company Name]
+  Made with ❤️ by [Invenro Solutions Pvt]
 </p>
 
 ###
