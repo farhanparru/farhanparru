@@ -16,7 +16,9 @@
 
 ###
 
-<p align="left">✨  I’m currently doing on <br>InternShipp Bridgeon<br>📚 I'm currently  working on an  ERP Billing Softawre</p>
+<p align="left">✨ ERP Billing Software 🚀
+
+ERP Billing Software is a modern and powerful solution tailored for businesses to manage billing, invoicing, and payment tracking with ease. Designed with flexibility and scalability in mind, this ERP system ensures smooth financial operations for small to large enterprises.</p>
 
 ###
 
