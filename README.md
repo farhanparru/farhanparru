@@ -19,7 +19,7 @@
 <h1 align="center">ERP Billing Software</h1>
 
 <p align="center">
-  <img src="https://path-to-your-logo" alt="ERP Billing Logo" width="200" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMjmJTBQRpm4IemnkEnENPh_GE4uSFkIBz2g&s" alt="ERP Billing Logo" width="200" />
 </p>
 
 <h2 align="left">About ERP Billing Software</h2>
