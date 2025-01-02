@@ -57,7 +57,7 @@
 
 <pre><code>
 1. Clone the repository:
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/username/repo-name.git](https://github.com/farhanparru/InvenroSultions-ERP.git
    cd repo-name
 
 2. Install dependencies:
