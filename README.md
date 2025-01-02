@@ -77,17 +77,12 @@
   <li>Track payments and generate reports.</li>
 </ol>
 
-<h2 align="left">Screenshots</h2>
 
-<p align="center">
-  <img src="https://path-to-your-screenshot" alt="Dashboard Screenshot" width="600" />
-</p>
-<p align="center"><em>ERP Billing Dashboard View</em></p>
 
-<p align="center">
-  <img src="https://path-to-your-screenshot" alt="Invoice Creation" width="600" />
-</p>
-<p align="center"><em>Creating a New Invoice</em></p>
+
+  
+
+
 
 <h2 align="left">Contributing</h2>
 
