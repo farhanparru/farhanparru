@@ -99,7 +99,7 @@
 <h2 align="left">Contact</h2>
 
 <p align="left">
-  📧 <strong>Email</strong>: <a href="mailto:support@tyemventures.in">support@tyemventures.in</a><br>
+  📧 <strong>Email</strong>: <a href="mailto:farhanparru87@gmail.com">farhanparru87@gmail.com</a><br>
   🌐 <strong>Website</strong>: <a href="https://invenro.com">yourdomain.com</a>
 </p>
 
