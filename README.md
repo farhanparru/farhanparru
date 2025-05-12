@@ -58,7 +58,7 @@
 <pre><code>
 1. Clone the repository:
    git clone https://github.com/farhanparru/InvenroSultions-ERP.git
-   cd repo-name
+ 
 
 2. Install dependencies:
    npm install
@@ -100,7 +100,6 @@
 
 <p align="left">
   📧 <strong>Email</strong>: <a href="mailto:farhanparru87@gmail.com">farhanparru87@gmail.com</a><br>
-  🌐 <strong>Website</strong>: <a href="https://invenro.com">yourdomain.com</a>
 </p>
 
 <hr />
