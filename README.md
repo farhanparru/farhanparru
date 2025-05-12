@@ -45,13 +45,14 @@
 
 <h2 align="left">Tech Stack</h2>
 
-<ul>
-  <li>💻 <strong>Frontend</strong>: React.js, Tailwind CSS, Ant Design</li>
-  <li>🔧 <strong>Backend</strong>: Node.js, Express.js</li>
-  <li>📦 <strong>Database</strong>: MongoDB, MySQL</li>
-  <li>🔒 <strong>Authentication</strong>: JWT, OAuth2 (Google, Facebook)</li>
-  <li>🚀 <strong>Deployment</strong>: Docker, Kubernetes</li>
-</ul>
+ <ul>
+    <li>💻 <strong>Frontend</strong>: React.js, Tailwind CSS, Ant Design</li>
+    <li>🔧 <strong>Backend</strong>: Node.js, Express.js</li>
+    <li>📦 <strong>Database</strong>: MongoDB</li>
+    <li>🔒 <strong>Authentication</strong>: JWT</li>
+    <li>🖥️ <strong>Desktop App</strong>: Electron.js</li>
+    <li>🚀 <strong>Deployment</strong>: AWS, Vercel, Hostinger</li>
+  </ul>
 
 <h2 align="left">Installation</h2>
 
